@@ -1,7 +1,7 @@
 ### 1차 미니 프로젝트
 
+>>>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 각 영화 사이트를 selenium을 통해서 크롤링하여 영화 목록을 가져오고,
