@@ -3,13 +3,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 ---
 
-<br>
 + 각 영화 사이트를 selenium을 통해서 크롤링하여 영화 목록을 가져오고,
+  <br>
+  사용자가 선택한 영화에 대한 리뷰를 dict에 저장하는 기능 구현
 
-사용자가 선택한 영화에 대한 리뷰를 dict에 저장하는 기능 구현
-</br>
 
-+ CGV, MEGA, LOTTE, DAUM이라는 클래스에 각 영화 사이트를 크롤링하고 리뷰를 분석하는 기능을 구현하였고,
+CGV, MEGA, LOTTE, DAUM이라는 클래스에 각 영화 사이트를 크롤링하고 리뷰를 분석하는 기능을 구현하였고,
 <br>
 이를 Movie라는 클래스에서 상속받아서 각 영화 사이트 클래스의 기능을 수행할 수 있게 하였다
 
