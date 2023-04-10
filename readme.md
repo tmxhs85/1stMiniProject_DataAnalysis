@@ -1,5 +1,7 @@
 ### 1차 미니 프로젝트
 
+<img src="https://img.shields.io/badge/Selenium-#43B02A?style=flat&logo=Selenium&logoColor=white"/>
+
 각 영화 사이트를 selenium을 통해서 크롤링하여 영화 목록을 가져오고,
 사용자가 선택한 영화에 대한 리뷰를 dict에 저장하는 기능 구현
 
